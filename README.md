@@ -3,7 +3,9 @@ A simple, beginner-friendly finance dashboard built using Python and Streamlit t
 
 ## 📌 Project Motivation
 
-After searching through various project ideas online, I decided to create something that would help me in my daily life — a personal finance tracker.
+After searching through various project ideas online, I decided to create something that would help me in my daily life — a Personal Finance Tracker.
+
+Not only does it solve a real problem I face, but it also pushes me forward on my journey in the data analytics field. Through this project, I applied Python, Pandas, and Streamlit to build something practical, while improving my skills in data handling, visualization, and app development
 
 While building this app, I faced several challenges like:
 - CSV formatting and data overwriting issues
