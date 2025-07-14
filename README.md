@@ -58,14 +58,15 @@ I nearly gave up at times, but I kept going — turning to documentation, Stack 
     On macOS/Linux:
                     python3 -m venv .venv
                     source .venv/bin/activate
+   
     On Windows:
                     python -m venv .venv
                     .venv\Scripts\activate
 
-3. Install the required dependencies
+4. Install the required dependencies
 
     pip install -r requirements.txt
 
-4. Run the Streamlit app
+5. Run the Streamlit app
 
     streamlit run app/app.py
