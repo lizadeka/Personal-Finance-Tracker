@@ -38,10 +38,9 @@ I nearly gave up at times, but I kept going — turning to documentation, Stack 
 
 ## 📷 Screenshots
 
-<img width="1862" height="757" alt="p1" src="https://github.com/user-attachments/assets/cd200316-94f9-4970-83f5-6660abf55c1e" />
-<img width="1892" height="922" alt="p2" src="https://github.com/user-attachments/assets/34ea443e-0715-496d-8ef5-ce101b956f18" />
-<img width="1760" height="908" alt="p3" src="https://github.com/user-attachments/assets/1154054f-ff4d-4f6f-b29c-9f7ec959f9b6" />
-
+<img width="1907" height="917" alt="pp1" src="https://github.com/user-attachments/assets/965566d6-058d-46a5-9cd0-f5950dfb14fb" />
+<img width="1893" height="912" alt="pp2" src="https://github.com/user-attachments/assets/dccac40f-ae88-42f9-bf15-766b22b565ec" />
+<img width="1833" height="907" alt="pp3" src="https://github.com/user-attachments/assets/cf3bc8f0-7917-40ea-b95d-04778d8fde3c" />
 
 ---
 
